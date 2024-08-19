@@ -1,0 +1,38 @@
+{
+  "name": "cloudflare-scraper",
+  "version": "2.0.0",
+  "description": "A package to bypass Cloudflare's protection",
+  "author": "Jimmy Laurent",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JimmyLaurent/cloudflare-scraper.git"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "cloudflare",
+    "scraper",
+    "bypass",
+    "chrome",
+    "request",
+    "anti-bot"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "chrome-remote-interface": "^0.31.3",
+    "chromium": "^3.0.3",
+    "got": "^12.5.3",
+    "tough-cookie": "^4.1.2",
+    "xvfb": "^0.4.0"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "parser": "flow",
+    "semi": true,
+    "tabWidth": 2
+  }
+}

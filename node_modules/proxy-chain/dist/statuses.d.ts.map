@@ -1,0 +1,1 @@
+{"version":3,"file":"statuses.d.ts","sourceRoot":"","sources":["../src/statuses.ts"],"names":[],"mappings":"AAEA,KAAK,cAAc,GAAG,MAAM,CAAC;AAE7B,eAAO,MAAM,qBAAqB;IAC9B;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;IAEH;;OAEG;;CAEG,CAAC;AAYX,eAAO,MAAM,qBAAqB,EAAE;IAAC,CAAC,SAAS,EAAE,MAAM,GAAG,cAAc,GAAG,SAAS,CAAA;CAM1E,CAAC"}
